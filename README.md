@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi, I'm Khaled 👋
 
+
+I'm a full-time Android developer, part-time gamer.
+Passionate about Android performance and underlying secrets ⚡
 <!--
 **KhaledAlramam/KhaledAlramam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
